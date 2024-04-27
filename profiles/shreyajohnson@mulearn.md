@@ -11,7 +11,7 @@
 | Name                                | Description                                                                          | Hosted Link    | Repo Link   |
 |-------------------------------------|--------------------------------------------------------------------------------------|----------------|-------------|
 | **Studio Mangement System**         |The Studio Management System, crafted to streamline and automate creative             |                |             |
-|                                     |studio operations using Java, enhances efficiency in managing administrative          |                |             |
+                                       studio operations using Java, enhances efficiency in managing administrative                                     
 |                                     |tasks, staff, and customer relationships.                                             |                |             |                                  
 | **Ecommerce Cake Ordering System**  |The development of an E-commerce Cake Ordering Platform with the primary              |                |             |
 |                                     |goal of digitizing Home Baker businesses and providing customers with a               |                |             |
