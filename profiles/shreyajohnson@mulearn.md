@@ -10,15 +10,9 @@
 
 | Name                                | Description                                                                          | Hosted Link    | Repo Link   |
 |-------------------------------------|--------------------------------------------------------------------------------------|----------------|-------------|
-| **Studio Mangement System**         |The Studio Management System, crafted to streamline and automate creative             |                |             |
-                                       studio operations using Java, enhances efficiency in managing administrative                                     
-|                                     |tasks, staff, and customer relationships.                                             |                |             |                                  
-| **Ecommerce Cake Ordering System**  |The development of an E-commerce Cake Ordering Platform with the primary              |                |             |
-|                                     |goal of digitizing Home Baker businesses and providing customers with a               |                |             |
-|                                     |convenient way to order cakes onlinefrom Home Bakers using Python.                    |                |             |
-| **Prediction of Multiple Disease**  |Collaborated with a team to develop a machine learning- based disease prediction      |                |             |
-|                                     |system.The project aimed to predict diabetes, heart disease, and cancer using         |                |             |
-|                                     |various machine learning algorithms to achieve higher accuracy in disease prediction  |                |             |
+| **Studio Mangement System**         |The Studio Management System, crafted to streamline and automate creative studio operations using Java, enhances efficiency in managing administrative tasks, staff, and customer relationships.                                             |                |             |
+| **Ecommerce Cake Ordering System**  |The development of an E-commerce Cake Ordering Platform with the primary goal of digitizing Home Baker businesses and providing customers with a convenient way to order cakes onlinefrom Home Bakers using Python.                    |                |             |
+| **Prediction of Multiple Disease**  |Collaborated with a team to develop a machine learning- based disease prediction system.The project aimed to predict diabetes, heart disease, and cancer using various machine learning algorithms to achieve higher accuracy in disease prediction  |                |             |
 
 ### Portfolio Highlights
 
